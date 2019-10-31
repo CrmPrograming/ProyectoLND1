@@ -1,0 +1,29 @@
+body {
+    border: 2px solid red;
+    display: flex;
+    flex-direction: column;
+}
+
+/* ESTILO HEADER */
+
+header {
+    display: flex;
+    flex-direction: column;
+}
+
+/* ESTILO SECTION */
+
+section {
+    display: flex;
+}
+
+article {
+    flex-grow: 2;
+}
+
+/* TODO: Remove, just for debug purposes */
+
+header {border: 2px solid blue;}
+section {border: 2px solid green;}
+footer {border: 2px solid yellow;}
+article {border: 2px solid violet;}
