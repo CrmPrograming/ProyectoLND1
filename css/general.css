@@ -2,6 +2,7 @@ body {
     border: 2px solid red;
     display: flex;
     flex-direction: column;
+    margin: 5px;
 }
 
 /* ESTILO HEADER */
@@ -9,12 +10,14 @@ body {
 header {
     display: flex;
     flex-direction: column;
+    margin-bottom: 5px;
 }
 
 /* ESTILO SECTION */
 
 section {
     display: flex;
+    margin-bottom: 5px;
 }
 
 article {
